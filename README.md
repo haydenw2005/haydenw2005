@@ -51,6 +51,3 @@ My name is **Hayden White**, and I'm an undergraduate student at **Purdue Univer
 
 [![Email](https://img.shields.io/badge/Email-white929%40purdue.edu-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:white929@purdue.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hayden%20White-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayden-s-white)
-
-
-
