@@ -1,4 +1,4 @@
-# Hi. I'm Hayden👋
+# Hey. I'm Hayden 👋
 
 My name is **Hayden White**, and I'm an undergraduate student at **Purdue University** pursuing a high-impact career in the software industry. With over a year of hands-on industry experience already under my belt, I am constantly seeking new opportunities to further develop my skills and contribute to the thriving innovation around me, with the long-term mission of making tangible improvements to the lives of others.
 
