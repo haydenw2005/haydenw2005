@@ -4,7 +4,7 @@ My name is **Hayden White**, and I'm an undergraduate student at **Purdue Univer
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Experience
 
 ### Languages
 
