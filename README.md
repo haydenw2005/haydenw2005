@@ -1,7 +1,6 @@
 # Hey. I'm Hayden 👋
 
 As an undergraduate at Purdue University and a software engineer with over a year of hands-on, full-stack experience, I’ve worked on both front-end and back-end projects to develop robust web applications. Through my studies, I’ve also built a strong foundation in low-level systems programming and machine learning. I’m always looking to learn something new and contribute to the meaningful projects that make a difference.
-
 ---
 
 ## 💻 Technical Experience
@@ -41,3 +40,8 @@ As an undergraduate at Purdue University and a software engineer with over a yea
 
 [![Email](https://img.shields.io/badge/Email-white929%40purdue.edu-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:white929@purdue.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hayden%20White-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayden-s-white)
+
+---
+
+(Note: Contribution graph does not include contributions from my old [work account](https://github.com/haydenswhite))
+
