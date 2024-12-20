@@ -1,6 +1,6 @@
-# Hey. I'm Hayden 👋
+# Hey. I'm Hayden 
 
-My name is **Hayden White**, and I'm an undergraduate student at **Purdue University** pursuing a high-impact career in the software industry. With over a year of hands-on industry experience already under my belt, I am constantly seeking new opportunities to further develop my skills and contribute to the thriving innovation around me, with the long-term mission of making tangible improvements to the lives of others.
+My name is **Hayden White**, and I'm an undergraduate at Purdue University and a software engineer focused on building practical solutions that solve real problems. With over a year of hands-on, full-stack experience, I’ve worked on both front-end and back-end projects to develop robust web applications. Through my studies, I’ve also built a strong foundation in low-level systems programming and machine learning. I’m always looking to learn something new and contribute to the meaningful projects that make a difference.Hi 👋, I’m Hayden White, an undergraduate at Purdue University and a software engineer focused on building practical solutions that solve real problems. With over a year of hands-on, full-stack experience, I’ve worked on both front-end and back-end projects to develop robust web applications. Through my studies, I’ve also built a strong foundation in low-level systems programming and machine learning. I’m always looking to learn something new and contribute to the meaningful projects that make a difference. 
 
 ---
 
