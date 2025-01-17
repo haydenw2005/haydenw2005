@@ -10,7 +10,9 @@ As an undergraduate at Purdue University and a software engineer with over a yea
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/x86ASM)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -28,6 +30,8 @@ As an undergraduate at Purdue University and a software engineer with over a yea
 ### Tools & DBs
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Unix](https://img.shields.io/badge/Unix-yellow?logo=unix&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6F00?style=flat-square)
