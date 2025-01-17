@@ -1,7 +1,6 @@
 # Hey. I'm Hayden 👋
 
-As an undergraduate at Purdue University with over a year of hands-on, full-stack software engineering experience, I have developed robust web applications by working on both front-end and back-end systems. My studies have provided a solid foundation in low-level systems programming, and I am currently expanding my skill set by exploring machine learning. I am passionate about learning new technologies and contributing to meaningful projects that create a positive impact.
----
+As an undergraduate at Purdue University with over a year of hands-on, full-stack software engineering experience, I have developed robust web applications by working on both front-end and back-end systems. My studies have provided a solid foundation in low-level systems programming, and I am currently expanding my skill set by exploring machine learning. I am passionate about learning new technologies and contributing to meaningful projects that create a positive impact.---
 
 ## 💻 Technical Experience
 
